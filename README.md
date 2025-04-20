@@ -4,9 +4,6 @@
 
 While working at Christie Digital, I developed an offline version of their Mystique Design Web application. This solution was designed for field technicians who needed to run projection mapping simulations in environments with limited or unreliable internet connectivity.
 
-![MDW Offline Application Interface](images/mdw-interface.jpg)
-<!-- Replace with your actual screenshot once available -->
-
 ## About Christie's Mystique
 
 Christie Digital is a prominent audiovisual company that manufactures and installs displays and projectors for major clients globally, including cinema chains, theme parks, sports arenas, and large-scale events such as the Dubai 2020 Expo and Star Wars premieres.
@@ -28,7 +25,7 @@ MDW provides a browser-based virtual simulation environment for projection setup
 - Share projects with team members
 - Plan complex setups without physically deploying equipment
 
-![MDW Offline Application Interface](images/mdw-interface.jpg)
+![MDW Offline Application Interface](https://www.christiedigital.com/globalassets/.catalog/products/warping-and-blending/series/mystique/hero/mystique-premium-edition-hero.png)
 <!-- Replace with your actual screenshot once available -->
 
 ## The Challenge
@@ -40,8 +37,6 @@ Field technicians frequently operate in environments with poor or non-existent i
 
 The solution required a standalone, offline-capable version of MDW that could synchronize with users' online accounts when connectivity became available.
 
-![MDW Implementation Challenge](images/mdw-challenge.jpg)
-<!-- Replace with a relevant image once available -->
 
 ## My Role & Contributions
 
@@ -64,9 +59,6 @@ I developed a comprehensive launcher application that:
 - Simplified the deployment process
 - Performed system requirement verification for Docker and MongoDB
 - Implemented installation routines for missing dependencies
-
-![MDW Architecture Diagram](images/mdw-architecture.jpg)
-<!-- Replace with your actual diagram once available -->
 
 ## Technical Implementation
 
@@ -110,8 +102,6 @@ My approach to developing the offline application included:
 **Challenge:** Ensuring Docker and MongoDB were properly configured on various systems.  
 **Solution:** I developed a comprehensive system check and installation routine to ensure all prerequisites were properly configured.
 
-![MDW Development Process](images/mdw-development.jpg)
-<!-- Replace with your actual process image once available -->
 
 ## Results & Achievements
 
